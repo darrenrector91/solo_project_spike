@@ -5,6 +5,13 @@
   "main": "index.js",
   "dependencies": {
     "angular": "^1.6.8",
+    "angular-animate": "^1.6.9",
+    "angular-aria": "^1.6.9",
+    "angular-material": "^1.1.6",
+    "angular-messages": "^1.6.9",
+    "angular-route": "^1.6.9",
+    "body-parser": "^1.18.2",
+    "eslint": "^4.17.0",
     "express": "^4.16.2",
     "ngmap": "^1.18.4",
     "nodemon": "^1.14.12"
